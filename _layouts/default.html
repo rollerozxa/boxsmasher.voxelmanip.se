@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>{% if page.title %}{{ page.title }} - {% endif %}Box Smasher</title>
+
+	<link rel="stylesheet" href="/assets/style.css">
+
+	{% seo %}
+
+
+	<link rel="icon" type="image/svg+xml" href="/assets/icon.svg">
+</head>
+<body>
+	<header>
+		<a href="/"><img src="/assets/banner.webp" alt="Box Smasher logo" title="Box Smasher"></a>
+	</header>
+	<nav>
+		<div class="links">
+			<a href="/">About</a>
+			<a href="/news/">News</a>
+			<a href="/download/" class="download">Download</a>
+		</div>
+	</nav>
+	<main>
+		{%- unless page.no_header or layout.no_header -%}
+			<h1>{{ page.title }}</h1>
+		{%- endunless -%}
+		{{ content }}
+	</main>
+	<footer>
+		<p>
+			Made by
+			<span class="author">
+				<img src="/assets/raccoon.webp" width="16" height="16">
+				<a href="https://voxelmanip.se">ROllerozxa</a>
+			</span>
+		</p>
+	</footer>
+</body>
+</html>

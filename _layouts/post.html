@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="blog-meta">
+	<time datetime="{{ page.date | date_to_xmlschema }}">
+		<a href="{{ page.url }}">{{ page.date | date_to_long_string }}</a>
+	</time>
+
+	<span>By <a href="https://voxelmanip.se">ROllerozxa</a></span>
+</div>
+
+{{ content }}
