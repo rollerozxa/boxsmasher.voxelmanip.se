@@ -11,7 +11,7 @@ title: Download
 ## Latest development version
 The latest development version of Box Smasher is available to download as a universal LÖVE package:
 
-(button here)
+<a class="dl-button" href="https://github.com/rollerozxa/boxsmasher/releases/download/dev/box-smasher.love">Download latest development version (.love)</a>
 
 It is a ZIP archive you load with the LÖVE runtime, which runs the game. The LÖVE runtime is available for Windows, macOS, Linux and Android and can be downloaded at [love2d.org](https://love2d.org/).
 
