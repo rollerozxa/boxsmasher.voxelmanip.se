@@ -5,7 +5,7 @@ title: Download
 <div class="note">
 	<p><strong>ℹ️ Note</strong></p>
 
-	<p>The last proper version of Box Smasher was v1.0.1 released on the 25th of May 2023. A new version v1.1 is planned to be released sometime in the future, incorporating many changes and bugfixes that have occurred since then. In the meantime you can download the latest development version</p>
+	<p>The last proper version of Box Smasher was v1.0.1 released on the 25th of May 2023. A new version v1.1 is planned to be released sometime in the future, incorporating many changes and bugfixes that have occurred since then. In the meantime you can download the latest development version as a universal LÖVE package.</p>
 </div>
 
 ## Latest development version
