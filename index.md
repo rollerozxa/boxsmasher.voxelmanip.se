@@ -5,7 +5,7 @@ no_title: true
 # Box Smasher
 Box Smasher is a physics-based puzzle game where you shoot balls to smash structures of boxes off the screen and into the void. The objective is to clear each level of all boxes in a limited amount of balls.
 
-Currently the game has 12 levels (as of v1.0.1), with more coming soon. Do you have what it takes to complete them all?
+Currently the game has 17 levels, with more coming soon. Do you have what it takes to complete them all?
 
 <p style="text-align:center"><a class="dl-button" href="/download/">Download</a></p>
 

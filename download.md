@@ -2,30 +2,42 @@
 title: Download
 ---
 
-<div class="note">
-	<p><strong>ℹ️ Note</strong></p>
+The latest version of Box Smasher is 1.1.0, released on 28th January 2025. [You can read the release announcement here.](/news/2025/box-smasher-1.1-released/)
 
-	<p>The last proper version of Box Smasher was v1.0.1 released on the 25th of May 2023. A new version v1.1 is planned to be released sometime in the future, incorporating many changes and bugfixes that have occurred since then. In the meantime you can download the latest development version as a universal LÖVE package.</p>
-</div>
+## F-Droid
+Box Smasher will be soon available on F-Droid.
 
-## Latest development version
-The latest development version of Box Smasher is available to download as a universal LÖVE package:
+{% comment %}
+Box Smasher is available to download on the alternative app store F-Droid. This is the recommended distribution method for Android:
 
-<a class="dl-button" href="https://github.com/rollerozxa/boxsmasher/releases/download/dev/box-smasher.love">Download latest development version (.love)</a>
+<a href="https://f-droid.org/packages/se.voxelmanip.boxsmasher/">
+	<img src="/assets/fdroid.png" alt="Get it on F-Droid" height="80">
+</a>
 
-It is a ZIP archive you load with the LÖVE runtime, which runs the game. The LÖVE runtime is available for Windows, macOS, Linux and Android and can be downloaded at [love2d.org](https://love2d.org/).
+You can either manually download the APK directly, or install the F-Droid app to receive updates when new versions of the game are released.
+{% endcomment %}
 
-## Download v1.0.1
-Box Smasher v1.0.1 is available to download for Windows, Android and other platforms LÖVE supports, on itch.io:
+## itch.io
+Box Smasher is also available to download for Windows, Linux, Android and other platforms LÖVE supports on itch.io:
 
 <a href="https://rollerozxa.itch.io/box-smasher">
 	<img alt="Get it on itch.io" src="/assets/itch.svg" width="240">
 </a>
 
-Box Smasher v1.0.1 is also currently available on [Google Play](https://play.google.com/store/apps/details?id=se.voxelmanip.boxsmasher), however it will be disappearing on the 3th of February 2025 due to new Google Play policies that are hostile to individual app developers.
+Box Smasher is free on itch.io, but a tip is always welcome.
+
+## Google Play
+Box Smasher used to be available on Google Play. It is no longer seeing updates due to new Google Play policies that are hostile to individual app developers, and will be permanently removed sometime in the future by Google.
+
+## 🧪 Latest development version
+If you wish to try out new changes to the game before they have made it into a full release, you can try the latest development version of Box Smasher. It is available to download as a universal LÖVE package automatically generated on each code commit:
+
+<a class="dl-button" href="https://github.com/rollerozxa/boxsmasher/releases/download/dev/box-smasher.love">Download latest development version (.love)</a>
+
+A universal LÖVE package is a ZIP archive you load with the LÖVE runtime, which runs the game. The LÖVE runtime is available for Windows, macOS, Linux and Android and can be downloaded at [love2d.org](https://love2d.org/).
 
 ## Source Code
-Box Smasher is Free software licensed under the `GPLv3` license. The source code is version controlled in Git and the canonical source repository is available on [GitHub](https://github.com/rollerozxa/boxsmasher):
+Box Smasher is Free software licensed under the `GPLv3` license, free for anyone to study and modify. The source code is version controlled in Git and the canonical source repository is available on [GitHub](https://github.com/rollerozxa/boxsmasher):
 
 ```bash
 git clone https://github.com/rollerozxa/boxsmasher
