@@ -13,7 +13,7 @@ The main source repository for the game is on GitHub as [rollerozxa/boxsmasher](
 git clone https://github.com/rollerozxa/boxsmasher
 ```
 
-A mirror of the repository is also available on [Codeberg](https://github.com/rollerozxa/boxsmasher).
+A mirror of the repository is also available on [Codeberg](https://codeberg.org/rollerozxa/boxsmasher).
 
 {% comment %}
 ## Contributing
