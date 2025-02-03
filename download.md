@@ -27,7 +27,7 @@ Box Smasher is also available to download for Windows, Linux, Android and other 
 Box Smasher is free on itch.io, but a tip is always welcome.
 
 ## Google Play
-Box Smasher used to be available on Google Play. It is no longer seeing updates due to new Google Play policies that are hostile to individual app developers, and will be permanently removed sometime in the future by Google.
+Box Smasher used to be available on Google Play, but has since been taken down by Google. See [this news article](/news/2025/box-smasher-is-gone-from-google-play/) for more information why Box Smasher is no longer available on Google Play.
 
 ## 🧪 Latest development version
 If you wish to try out new changes to the game before they have made it into a full release, you can try the latest development version of Box Smasher. It is available to download as a universal LÖVE package automatically generated on each code commit:

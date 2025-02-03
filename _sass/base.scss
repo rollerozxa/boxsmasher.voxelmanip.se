@@ -56,7 +56,7 @@ img {
 }
 
 p, li {
-	line-height: 1.5;
+	line-height: 1.75;
 }
 
 ul li, ol li {
@@ -84,6 +84,20 @@ header {
 	img {
 		width: 600px;
 		max-width: 100%;
+	}
+}
+
+figure {
+	text-align: center;
+	margin: 10px 0;
+
+	figcaption {
+		font-style: italic;
+		margin-top: 3px;
+	}
+
+	img {
+		border-radius: 6px;
 	}
 }
 
