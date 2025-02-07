@@ -5,9 +5,6 @@ title: Download
 The latest version of Box Smasher is 1.1.0, released on 28th January 2025. [You can read the release announcement here.](/news/2025/box-smasher-1.1-released/)
 
 ## F-Droid
-Box Smasher will be soon available on F-Droid.
-
-{% comment %}
 Box Smasher is available to download on the alternative app store F-Droid. This is the recommended distribution method for Android:
 
 <a href="https://f-droid.org/packages/se.voxelmanip.boxsmasher/">
@@ -15,7 +12,6 @@ Box Smasher is available to download on the alternative app store F-Droid. This 
 </a>
 
 You can either manually download the APK directly, or install the F-Droid app to receive updates when new versions of the game are released.
-{% endcomment %}
 
 ## itch.io
 Box Smasher is also available to download for Windows, Linux, Android and other platforms LÖVE supports on itch.io:
