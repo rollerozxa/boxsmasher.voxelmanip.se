@@ -23,10 +23,10 @@ Currently the game has {{ site.data.release.total_levels }} levels, with more co
 ## Screenshots
 
 <div class="image-gallery">
-	<a href="/media/screenshots/1.webp" target="_blank"><img src="/media/screenshots/1.webp" alt="Screenshot of the main menu of Box Smasher, with a title screen, play button and boxes falling down in the backgrounds."></a>
-	<a href="/media/screenshots/2.webp" target="_blank"><img src="/media/screenshots/2.webp" alt="(alt text pending)"></a>
-	<a href="/media/screenshots/3.webp" target="_blank"><img src="/media/screenshots/3.webp" alt="(alt text pending)"></a>
-	<a href="/media/screenshots/4.webp" target="_blank"><img src="/media/screenshots/4.webp" alt="(alt text pending)"></a>
+	<a href="/assets/branding/screenshot_1.webp" target="_blank"><img src="/assets/branding/screenshot_1.webp" alt="Screenshot of the main menu of Box Smasher, with a title screen, play button and boxes falling down in the backgrounds."></a>
+	<a href="/assets/branding/screenshot_2.webp" target="_blank"><img src="/assets/branding/screenshot_2.webp" alt="(alt text pending)"></a>
+	<a href="/assets/branding/screenshot_3.webp" target="_blank"><img src="/assets/branding/screenshot_3.webp" alt="(alt text pending)"></a>
+	<a href="/assets/branding/screenshot_4.webp" target="_blank"><img src="/assets/branding/screenshot_4.webp" alt="(alt text pending)"></a>
 </div>
 
 ## More information
